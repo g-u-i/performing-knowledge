@@ -9,15 +9,15 @@
 ;font-family: 'Spectral', serif; */
 
 
-.s1, .s10 {background-color: #8dd3c7; font-family: 'arial';  }
-.s2 {background-color: #ffffb3; font-family: 'Rubik', sans-serif;  }
-.s3 {background-color: #bebada; font-family: 'arial'; font-style: italic; }
-.s4 {background-color: #fb8072; font-family: 'Spectral', serif;  }
-.s5 {background-color: #80b1d3; font-family: 'Space Mono', monospace; }
-.s6 {background-color: #fdb462; font-family: 'arial'; }
-.s7 {background-color: #b3de69; font-family: sans;  }
-.s8 {background-color: #fccde5; font-family: 'Francois One', sans-serif;  }
-.s9 {background-color: #d9d9d9; font-family: 'Spectral', serif;  }
+.s1, .s11, .s10 {background-color: #8dd3c7; font-family: 'arial';  }
+.s2, .s12 {background-color: #ffffb3; font-family: 'Rubik', sans-serif;  }
+.s3, .s13 {background-color: #bebada; font-family: 'arial'; font-style: italic; }
+.s4, .s14 {background-color: #fb8072; font-family: 'Spectral', serif;  }
+.s5, .s15 {background-color: #80b1d3; font-family: 'Space Mono', monospace; }
+.s6, .s16 {background-color: #fdb462; font-family: 'arial'; }
+.s7, .s17 {background-color: #b3de69; font-family: 'Space Mono';  }
+.s8, .s18 {background-color: #fccde5; font-family: 'karla', sans-serif;  }
+.s9, .s19 {background-color: #d9d9d9; font-family: 'Spectral', serif;  }
 
 span {
   font-size: 3vw;
@@ -56,4 +56,8 @@ span.s13 {background-color: #1927d8} */
 
 h1 {
   display: none;
+}
+.section {
+  text-align: center;
+  padding: 5em 0 5em;
 }
