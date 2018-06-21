@@ -1,10 +1,5 @@
-/* p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px 'Helvetica Neue'; color: #000000; -webkit-text-stroke: #000000; min-height: 14.0px}
-p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px 'Helvetica Neue'; color: #000000; -webkit-text-stroke: #000000}
-p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px 'Helvetica Neue'; color: #0000ee; -webkit-text-stroke: #0000ee}
-p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 15.0px; font: 12.0px 'Helvetica Neue'; color: #000000; -webkit-text-stroke: #000000}
-p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px 'Helvetica Neue'; color: #ffffff; -webkit-text-stroke: #ffffff} */
 
-@import url('https://fonts.googleapis.com/css?family=Francois+One|Indie+Flower|Karla:400,400i|Lora:400,400i|Poppins:400,400i|Rubik|Spectral:400,400i&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Francois+One|Space+Mono:400,400i|Indie+Flower|Karla:400,400i|Lora:400,400i|Poppins:400,400i|Rubik|Spectral:400,400i&subset=latin-ext');
 
 
 /* ;f
@@ -13,22 +8,20 @@ p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px 'Helvet
 ;font-family: 'Francois One', sans-serif;
 ;font-family: 'Spectral', serif; */
 
-/*
 
-#8dd3c7
-#ffffb3
-#bebada
-#fb8072
-#80b1d3
-#fdb462
-#b3de69
-#fccde5
-#d9d9d9
+.s1 {background-color: #8dd3c7; font-family: 'Indie Flower', cursive;  }
+.s2 {background-color: #ffffb3; font-family: 'Rubik', sans-serif;  }
+.s3 {background-color: #bebada; font-family: 'Francois One', sans-serif; }
+.s4 {background-color: #fb8072; font-family: sans;  }
+.s5 {background-color: #80b1d3; font-family: 'Space Mono', monospace; }
+.s6 {background-color: #fdb462; font-family: sans;  }
+.s7 {background-color: #b3de69; font-family: sans;  }
+.s8 {background-color: #fccde5; font-family: 'Francois One', sans-serif;  }
+.s9 {background-color: #d9d9d9; font-family: 'Spectral', serif;  }
 
-*/
 span {
-  font-size: 4vw;
-  padding: 0.5em 0 0.5em ;
+  font-size: 3vw;
+  padding: 0.3em 0 0.3em ;
   line-height: 2em;
   /* display: inline-block; */
   font-weight: bold;
@@ -41,10 +34,11 @@ body {
 }
 img {
   width: 100%;
+  max-width: 900px;
 }
 /* p { max-width: 500px;} */
 
-span.s12, span.s1 { background-color: #8dd3c7; font-family: 'Poppins', sans-serif;}
+/* span.s12, span.s1 { background-color: #8dd3c7; font-family: 'Poppins', sans-serif;}
 span.s3 { background-color: #d9d9d9;font-family: 'Karla', sans-serif; }
 span.s17, span.s4 { background-color: #ffffb3; font-family: 'Lora', serif;}
 
@@ -56,8 +50,8 @@ span.s9, span.s7 { background-color: #b3de69; font-family: 'Rubik', sans-serif;}
 
 span.s10, span.s11 {background-color: #fccde5;font-family: 'Francois One', sans-serif;}
 
-span.s13 {background-color: #1927d8}
-span.s16 , span.s15 {background-color: #d9d9d9; font-family: 'Spectral', serif; }
+span.s13 {background-color: #1927d8} */
+/* span.s16 , span.s15 {background-color: #d9d9d9; font-family: 'Spectral', serif; } */
 
 h1 {
   display: none;
