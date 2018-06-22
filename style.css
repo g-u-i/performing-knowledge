@@ -1,13 +1,15 @@
 
 @import url('https://fonts.googleapis.com/css?family=Francois+One|Space+Mono:400,400i|Indie+Flower|Karla:400,400i|Lora:400,400i|Poppins:400,400i|Rubik|Spectral:400,400i&subset=latin-ext');
 
+body {
+  padding: 4vw;
+}
 
-/* ;f
-;font-family: 'Indie Flower', cursive;
-;font-family: 'Rubik', sans-serif;
-;font-family: 'Francois One', sans-serif;
-;font-family: 'Spectral', serif; */
-
+img {
+  /*width: 100%;*/
+  /*max-width: 900px;*/
+  max-width: 100%;
+}
 
 .s1, .s11, .s10 {background-color: #8dd3c7; font-family: 'arial';  }
 .s2, .s12 {background-color: #ffffb3; font-family: 'Rubik', sans-serif;  }
@@ -23,40 +25,24 @@ span {
   font-size: 3vw;
   padding: 0.3em 0 0.3em ;
   line-height: 2em;
-  /* display: inline-block; */
   font-weight: bold;
 }
+
 p {
   margin: 0;
-r}
-body {
-  padding: 4vw;
+  font-size: 3vw;
+  font-family: 'Spectral', serif; 
 }
-img {
-  /*width: 100%;*/
-  /*max-width: 900px;*/
-  max-width: 100%;
+
+.caption {
+  column-count: 2;
+    padding-bottom: 3em;
 }
-/* p { max-width: 500px;} */
 
-/* span.s12, span.s1 { background-color: #8dd3c7; font-family: 'Poppins', sans-serif;}
-span.s3 { background-color: #d9d9d9;font-family: 'Karla', sans-serif; }
-span.s17, span.s4 { background-color: #ffffb3; font-family: 'Lora', serif;}
-
-span.s18, span.s5 { background-color: #bebada; font-family: 'Lora', serif;}
-
-span.s14, span.s6 { background-color: #fb8072; font-family: 'Francois One', cursive;}
-
-span.s9, span.s7 { background-color: #b3de69; font-family: 'Rubik', sans-serif;}
-
-span.s10, span.s11 {background-color: #fccde5;font-family: 'Francois One', sans-serif;}
-
-span.s13 {background-color: #1927d8} */
-/* span.s16 , span.s15 {background-color: #d9d9d9; font-family: 'Spectral', serif; } */
-
-h1 {
-  display: none;
+.caption p {
+  padding-bottom: 1em;
 }
+
 .section {
   text-align: center;
   padding: 5em 0 5em;
