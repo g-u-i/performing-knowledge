@@ -40,6 +40,9 @@ a{
 
 .caption {
   column-count: 2;
+  -webkit-column-break-inside: avoid;
+          page-break-inside: avoid;
+               break-inside: avoid;
     padding-bottom: 3em;
 }
 
