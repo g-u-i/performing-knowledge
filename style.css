@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css?family=Francois+One|Space+Mono:400,400i|Indie+Flower|Karla:400,400i|Lora:400,400i|Poppins:400,400i|Rubik|Spectral:400,400i&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One|Josefin+Sans|Francois+One|Space+Mono:400,400i|Indie+Flower|Karla:400,400i|Lora:400,400i|Poppins:400,400i|Rubik|Spectral:400,400i&subset=latin-ext');
 
 body {
   padding: 4vw;
@@ -13,10 +13,10 @@ img {
 
 .s1, .s11, .s10 {background-color: #8dd3c7; font-family: 'arial';  }
 .s2, .s12 {background-color: #ffffb3; font-family: 'Rubik', sans-serif;  }
-.s3, .s13 {background-color: #bebada; font-family: 'arial'; font-style: italic; }
+.s3, .s13 {background-color: #bebada; font-family: 'Josefin Sans', sans-serif; }
 .s4, .s14 {background-color: #fb8072; font-family: 'Spectral', serif;  }
 .s5, .s15 {background-color: #80b1d3; font-family: 'Space Mono', monospace; }
-.s6, .s16 {background-color: #fdb462; font-family: 'arial'; }
+.s6, .s16 {background-color: #fdb462; font-family: 'Fjalla One', sans-serif;}
 .s7, .s17 {background-color: #b3de69; font-family: 'Space Mono';  }
 .s8, .s18 {background-color: #fccde5; font-family: 'karla', sans-serif;  }
 .s9, .s19 {background-color: #d9d9d9; font-family: 'Spectral', serif;  }
