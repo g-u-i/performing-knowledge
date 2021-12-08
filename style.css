@@ -2,7 +2,8 @@
 @import url('https://fonts.googleapis.com/css?family=Fjalla+One|Space+Mono:400,400i|Karla:400,400i|Rubik|Spectral:400,400i&subset=latin-ext');
 
 body {
-  padding: 4vw;
+  /* padding: 2vw; */
+  font-size: 10px;
 }
 
 img {
@@ -10,7 +11,14 @@ img {
   /*max-width: 900px;*/
   max-width: 100%;
 }
+.logo {
+  max-width: 50%;
+  text-align:center;
+  margin:auto;
+  display:flex;
+  page-break-before: always;
 
+}
 .s1, .s11, .s10 {background-color: #8dd3c7; font-family: 'arial';  }
 .s2, .s12 {background-color: #ffffb3; font-family: 'Rubik', sans-serif;  }
 .s3, .s13 {background-color: #bebada; font-family: 'Josefin Sans', sans-serif; }
@@ -31,7 +39,7 @@ span {
 p {
   margin: 0;
   font-size: 3vw;
-  font-family: 'Spectral', serif; 
+  font-family: 'Spectral', serif;
 }
 
 a{
@@ -50,7 +58,12 @@ a{
   padding-bottom: 1em;
 }
 
+.text {
+  page-break-before: always;
+
+}
 .section {
+  page-break-before: always;
   text-align: center;
   padding: 5em 0 5em;
 }
