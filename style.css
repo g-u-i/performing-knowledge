@@ -3,7 +3,7 @@
 
 body {
   /* padding: 2vw; */
-  font-size: 10px;
+  font-size: 13px;
 }
 
 img {
@@ -30,7 +30,7 @@ img {
 .s9, .s19 {background-color: #d9d9d9; font-family: 'Spectral', serif;  }
 
 span {
-  font-size: 2.8vw;
+  font-size: 0.9em;
   padding: 0.3em 0 0.3em ;
   font-weight: bold;
   margin-right: 4px;
@@ -38,7 +38,7 @@ span {
 
 p {
   margin: 0;
-  font-size: 3vw;
+  font-size: 1em;
   font-family: 'Spectral', serif;
 }
 
@@ -65,5 +65,5 @@ a{
 .section {
   page-break-before: always;
   text-align: center;
-  padding: 5em 0 5em;
+  padding: 2em 0 4em;
 }
